@@ -47,3 +47,9 @@ print(s[2])
 print(s[::])
 print(s[::2])
 print(s[::-1])
+print(s[1:4])
+
+"""
+Output:
+12 <class 'int'>
+"""
